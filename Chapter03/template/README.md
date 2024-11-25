@@ -1,6 +1,6 @@
 # Azure Network Engineer Book - Chapter 3
 
-[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://raw.githubusercontent.com/pradeep-sashidhara/Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/refs/heads/main/Chapter03/template/azuredeploy.json)
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpradeep-sashidhara%2FDesigning-and-Implementing-Microsoft-Azure-Networking-Solutions%2Frefs%2Fheads%2Fmain%2FChapter03%2Ftemplate%2Fazuredeploy.json)
 [![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fdavidokeyode%2FAZ-700%2Fmain%2Fchapter-3%2Ftemplate%2Fazuredeploy.json)
 
 
