@@ -11,7 +11,7 @@
         },
         "VmSize": {
             "type": "string",
-            "defaultValue": "Standard_DC2s_v2",
+            "defaultValue": "Standard_B4pls_v2",
             "metadata": {
                 "description": "The size of the VM"
             }
